@@ -4,7 +4,7 @@ I am a powerful machine learning algorithm capable of predicting the color of wi
 
 This algorithm will learn from the data all the characteristics that make a red wine and a white wine. After learning, and any user can enter new data for the algorithm to classify the type of wine.
 
-# The entire app was devoloper using just:
+# The entire application was developed basically using:
 Back-End:
 - Python
 
